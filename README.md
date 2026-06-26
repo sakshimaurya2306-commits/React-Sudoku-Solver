@@ -32,7 +32,7 @@ npm run dev
 
 ```
 ## Project Structure
-
+```
 sudoku-solver/
 ├── public/
 ├── src/
@@ -53,7 +53,7 @@ sudoku-solver/
 ├── package.json
 └── README.md
 
-
+```
 
 ## Screenshots
 
@@ -62,11 +62,11 @@ sudoku-solver/
 ---
 
 ## Sample Puzzle
-![Sample Puzzle](./screenshots/sample-puzzle.jpeg)
+![Sample Puzzle](./screenshots/Sample-Puzzle.jpeg)
 
 ---
 ## Solved Puzzle
-![Solved Puzzle](./screenshots/solved-puzzle.jpeg)
+![Solved Puzzle](./screenshots/Solved-Puzzle.jpeg)
 
 ---
 ## Algorithm
@@ -81,4 +81,4 @@ Click Solve to complete the puzzle.
 Click Clear to reset the board.
 
 ## Author
-Created as a Software Development Internship project.
+Sakshi Ramakabal Maurya B.Tech in Information Technology at K.j. Somaiya institute of technology
